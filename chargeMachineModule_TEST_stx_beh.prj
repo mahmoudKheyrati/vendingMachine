@@ -1,0 +1,7 @@
+verilog isim_temp "writeStuff.v"
+verilog isim_temp "readStuff.v"
+verilog isim_temp "storeHandler.v"
+verilog isim_temp "saveMachineLog.v"
+verilog isim_temp "chargeMachineModule.v"
+verilog isim_temp "chargeMachineModule_TEST.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

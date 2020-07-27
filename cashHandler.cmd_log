@@ -1,0 +1,3 @@
+xst -intstyle ise -ifn "C:/WORK_SPACE/UNIVERSIY/vendingMachine/cashHandler.xst" -ofn "C:/WORK_SPACE/UNIVERSIY/vendingMachine/cashHandler.syr" 
+xst -intstyle ise -ifn "C:/WORK_SPACE/UNIVERSIY/vendingMachine/cashHandler.xst" -ofn "C:/WORK_SPACE/UNIVERSIY/vendingMachine/cashHandler.syr" 
+xst -intstyle ise -ifn "C:/WORK_SPACE/UNIVERSIY/vendingMachine/cashHandler.xst" -ofn "C:/WORK_SPACE/UNIVERSIY/vendingMachine/cashHandler.syr" 

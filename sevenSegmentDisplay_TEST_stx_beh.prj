@@ -1,0 +1,3 @@
+verilog isim_temp "sevenSegmentDisplay.v"
+verilog isim_temp "sevenSegmentDisplay_TEST.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

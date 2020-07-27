@@ -1,0 +1,58 @@
+Running: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -lib unisims_ver -lib unimacro_ver -lib xilinxcorelib_ver -lib secureip -o C:/WORK_SPACE/UNIVERSIY/vendingMachine/main_TEST_isim_beh.exe -prj C:/WORK_SPACE/UNIVERSIY/vendingMachine/main_TEST_beh.prj work.main_TEST work.glbl 
+ISim P.20131013 (signature 0x7708f090)
+Number of CPUs detected in this system: 12
+Turning on mult-threading, number of parallel sub-compilation jobs: 24 
+Determining compilation order of HDL files
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/writeStuff.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/setMoney.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/readStuff.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/getMoney.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/storeHandler.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/saveMachineLog.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/cashHandler.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/sevenSegmentDisplay.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/recieveMoneyModule.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/chargeMachineModule.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/changePriceModule.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/buyProductModule.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/main.v" into library work
+Analyzing Verilog file "C:/WORK_SPACE/UNIVERSIY/vendingMachine/main_TEST.v" into library work
+Analyzing Verilog file "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v" into library work
+Starting static elaboration
+WARNING:HDLCompiler:329 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/main.v" Line 50: Target <isError> of concurrent assignment or output port connection should be a net type.
+WARNING:HDLCompiler:329 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/main.v" Line 51: Target <isError> of concurrent assignment or output port connection should be a net type.
+WARNING:HDLCompiler:329 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/main.v" Line 52: Target <isError> of concurrent assignment or output port connection should be a net type.
+WARNING:HDLCompiler:329 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/main.v" Line 54: Target <isError> of concurrent assignment or output port connection should be a net type.
+WARNING:HDLCompiler:189 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/main.v" Line 54: Size mismatch in connection of port <mode>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/main_TEST.v" Line 26: Size mismatch in connection of port <mode>. Formal port size is 3-bit while actual signal size is 4-bit.
+WARNING:HDLCompiler:329 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/buyProductModule.v" Line 30: Target <customerBudget> of concurrent assignment or output port connection should be a net type.
+WARNING:HDLCompiler:189 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/buyProductModule.v" Line 32: Size mismatch in connection of port <mode>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/buyProductModule.v" Line 33: Size mismatch in connection of port <mode>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/buyProductModule.v" Line 36: Size mismatch in connection of port <param2>. Formal port size is 4-bit while actual signal size is 3-bit.
+WARNING:HDLCompiler:189 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/chargeMachineModule.v" Line 15: Size mismatch in connection of port <param2>. Formal port size is 4-bit while actual signal size is 3-bit.
+WARNING:HDLCompiler:329 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/recieveMoneyModule.v" Line 22: Target <cashResult> of concurrent assignment or output port connection should be a net type.
+WARNING:HDLCompiler:189 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/recieveMoneyModule.v" Line 21: Size mismatch in connection of port <mode>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:189 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/recieveMoneyModule.v" Line 22: Size mismatch in connection of port <mode>. Formal port size is 1-bit while actual signal size is 32-bit.
+WARNING:HDLCompiler:1016 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/changePriceModule.v" Line 15: Port param4 is not connected to this instance
+WARNING:HDLCompiler:189 - "C:/WORK_SPACE/UNIVERSIY/vendingMachine/changePriceModule.v" Line 15: Size mismatch in connection of port <param2>. Formal port size is 4-bit while actual signal size is 3-bit.
+Completed static elaboration
+Compiling module sevenSegmentDisplay
+Compiling module getMoney
+Compiling module readStuff
+Compiling module setMoney
+Compiling module cashHandler
+Compiling module writeStuff
+Compiling module storeHandler
+Compiling module saveMachineLogs
+Compiling module buyProductModule
+Compiling module chargeMachineModule
+Compiling module recieveMoneyModule
+Compiling module changePriceModule
+Compiling module main
+Compiling module main_TEST
+Compiling module glbl
+Time Resolution for simulation is 1ps.
+Compiled 15 Verilog Units
+Built simulation executable C:/WORK_SPACE/UNIVERSIY/vendingMachine/main_TEST_isim_beh.exe
+Fuse Memory Usage: 29492 KB
+Fuse CPU Usage: 374 ms

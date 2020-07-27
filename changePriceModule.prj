@@ -1,0 +1,5 @@
+verilog work "writeStuff.v"
+verilog work "readStuff.v"
+verilog work "storeHandler.v"
+verilog work "saveMachineLog.v"
+verilog work "changePriceModule.v"

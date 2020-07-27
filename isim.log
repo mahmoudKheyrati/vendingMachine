@@ -1,0 +1,33 @@
+ISim log file
+Running: C:\WORK_SPACE\UNIVERSIY\vendingMachine\main_TEST_isim_beh.exe -intstyle ise -gui -tclbatch isim.cmd -wdb C:/WORK_SPACE/UNIVERSIY/vendingMachine/main_TEST_isim_beh.wdb 
+ISim P.20131013 (signature 0x7708f090)
+This is a Full version of ISim.
+WARNING:  For instance buy/handler/, width 1 of formal port mode is not equal to width 32 of actual constant.
+WARNING:  For instance buy/handler/, width 1 of formal port func is not equal to width 32 of actual constant.
+WARNING:  For instance buy/savedMoney/, width 1 of formal port mode is not equal to width 32 of actual constant.
+WARNING:  For instance buy/savedMoney/, width 1 of formal port func is not equal to width 32 of actual constant.
+WARNING: File "C:/WORK_SPACE/UNIVERSIY/vendingMachine/buyProductModule.v" Line 10.  For instance buy/log/, width 4 of formal port param2 is not equal to width 3 of actual signal itemCode.
+WARNING: File "C:/WORK_SPACE/UNIVERSIY/vendingMachine/chargeMachineModule.v" Line 4.  For instance charge/log/, width 4 of formal port param2 is not equal to width 3 of actual signal productCode.
+WARNING:  For instance recieve/money/, width 1 of formal port mode is not equal to width 32 of actual constant.
+WARNING:  For instance recieve/handler/, width 1 of formal port mode is not equal to width 32 of actual constant.
+WARNING:  For instance recieve/handler/, width 1 of formal port func is not equal to width 32 of actual constant.
+WARNING: File "C:/WORK_SPACE/UNIVERSIY/vendingMachine/changePriceModule.v" Line 4.  For instance changePrice/log/, width 4 of formal port param2 is not equal to width 3 of actual signal productCode.
+WARNING:  For instance uut/chargeCustomerMoney/, width 1 of formal port mode is not equal to width 32 of actual constant.
+WARNING:  For instance uut/chargeCustomerMoney/, width 1 of formal port func is not equal to width 32 of actual constant.
+WARNING: File "C:/WORK_SPACE/UNIVERSIY/vendingMachine/main_TEST.v" Line 7.  For instance main_TEST/uut/, width 3 of formal port mode is not equal to width 4 of actual variable mode. 
+Time resolution is 1 ps
+# onerror resume
+# wave add /
+# run 1000 ns
+Simulator is doing circuit initialization process.
+Finished circuit initialization process.
+thanks for buying , give your product! 
+good luck 
+you can't charge this number because you come over max capacity of the machine (15 per each product)
+your machine don't have this money. you can at most recive 
+ 0
+you can read logs in 'logs.txt' file
+# run all
+the current customer money is : 15 
+the current machine money is :  0 
+you can't charge this amount of money (maximum of the money is 15)

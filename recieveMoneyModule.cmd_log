@@ -1,0 +1,2 @@
+xst -intstyle ise -ifn "C:/WORK_SPACE/UNIVERSIY/vendingMachine/recieveMoneyModule.xst" -ofn "C:/WORK_SPACE/UNIVERSIY/vendingMachine/recieveMoneyModule.syr" 
+xst -intstyle ise -ifn "C:/WORK_SPACE/UNIVERSIY/vendingMachine/recieveMoneyModule.xst" -ofn "C:/WORK_SPACE/UNIVERSIY/vendingMachine/recieveMoneyModule.syr" 

@@ -1,0 +1,142 @@
+recieveMoney	 status:0, amount:15
+
+recieveMoney	 status:0, amount:15
+
+recieveMoney	 status:1, amount:15
+
+chargeMachine	 status:0, productCode: Z , addedCount: 7
+chargeMachine	 status:0, productCode: Z , addedCount: 1
+chargeMachine	 status:0, productCode: Z , addedCount: 7
+chargeMachine	 status:0, productCode: Z , addedCount: 1
+chargeMachine	 status:1, productCode: Z , addedCount: 7
+chargeMachine	 status:1, productCode: Z , addedCount: 1
+chargeMachine	 status:1, productCode: Z , addedCount: 7
+chargeMachine	 status:1, productCode: Z , addedCount: 1
+chargeMachine	 status:1, productCode: Z , addedCount: 7
+chargeMachine	 status:1, productCode: Z , addedCount: 1
+chargeMachine	 status:1, productCode: Z , addedCount: 7
+chargeMachine	 status:1, productCode: Z , addedCount: 1
+chargeMachine	 status:1, productCode: Z , addedCount: 7
+chargeMachine	 status:1, productCode: Z , addedCount: 1
+changePrice	 status:1, productCode: Z , newPrice:15
+changePrice	 status:1, productCode: Z , newPrice: 2
+buy	 status:1, productCode: Z , itemCount: 5 , price: x 
+buy	 status:1, productCode: Z , itemCount: 5 , price: x 
+buy	 status:1, productCode: Z , itemCount: 5 , price: x 
+buy	 status:1, productCode: Z , itemCount: 5 , price: 1 
+buy	 status:1, productCode: Z , itemCount: 5 , price: 1 
+buy	 status:1, productCode: Z , itemCount: 0 , price: 1 
+changePrice	 status:1, productCode: Z , newPrice: 0
+recieveMoney	 status:1, amount: 0
+
+buy	 status:1, productCode: Z , itemCount: 0 , price: 0 
+changePrice	 status:1, productCode: Z , newPrice: 0
+recieveMoney	 status:1, amount: 0
+
+buy	 status:1, productCode: Z , itemCount: 0 , price: 0 
+changePrice	 status:1, productCode: Z , newPrice: 0
+recieveMoney	 status:1, amount: 0
+
+chargeMachine	 status:1, productCode: Z , addedCount: 7
+chargeMachine	 status:1, productCode: Z , addedCount: 1
+changePrice	 status:1, productCode: Z , newPrice:15
+recieveMoney	 status:0, amount:10
+
+changePrice	 status:1, productCode: Z , newPrice:15
+recieveMoney	 status:0, amount:10
+
+changePrice	 status:1, productCode: Z , newPrice:15
+recieveMoney	 status:1, amount:10
+
+changePrice	 status:1, productCode: Z , newPrice:15
+chargeMachine	 status:1, productCode: Z , addedCount: 7
+recieveMoney	 status:0, amount:10
+
+changePrice	 status:1, productCode: Z , newPrice:15
+chargeMachine	 status:1, productCode: Z , addedCount: 7
+recieveMoney	 status:0, amount:10
+
+changePrice	 status:1, productCode: Z , newPrice:15
+chargeMachine	 status:1, productCode: Z , addedCount: 7
+recieveMoney	 status:0, amount:10
+
+changePrice	 status:1, productCode: Z , newPrice:15
+buy	 status:1, productCode: Z , itemCount: 1 , price: 3 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 2 
+buy	 status:1, productCode: Z , itemCount: 1 , price: x 
+buy	 status:1, productCode: Z , itemCount: 1 , price: x 
+buy	 status:1, productCode: Z , itemCount: 1 , price: x 
+buy	 status:1, productCode: Z , itemCount: 1 , price: x 
+buy	 status:1, productCode: Z , itemCount: 1 , price: x 
+buy	 status:1, productCode: Z , itemCount: 1 , price: x 
+buy	 status:1, productCode: Z , itemCount: 1 , price: x 
+buy	 status:1, productCode: Z , itemCount: 1 , price: x 
+buy	 status:1, productCode: Z , itemCount: 1 , price: x 
+buy	 status:1, productCode: Z , itemCount: 1 , price: x 
+buy	 status:1, productCode: Z , itemCount: 1 , price: x 
+buy	 status:1, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 7 , price: x 
+chargeMachine	 status:1, productCode: Z , addedCount: 7
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:0, productCode: Z , itemCount: 1 , price: x 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 1 , price: 0 
+buy	 status:1, productCode: Z , itemCount: 7 , price: 0 
+chargeMachine	 status:1, productCode: Z , addedCount: 7
+recieveMoney	 status:1, amount:10
+
+changePrice	 status:1, productCode: Z , newPrice:15
+buy	 status:1, productCode: Z , itemCount: 7 , price: 0 
+chargeMachine	 status:1, productCode: Z , addedCount: 7
+recieveMoney	 status:0, amount:10
+
+changePrice	 status:1, productCode: Z , newPrice:15

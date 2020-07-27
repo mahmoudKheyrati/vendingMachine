@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/main.v" Line 50: Target &lt;<arg fmt="%s" index="1">isError</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/main.v" Line 51: Target &lt;<arg fmt="%s" index="1">isError</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/main.v" Line 52: Target &lt;<arg fmt="%s" index="1">isError</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/main.v" Line 54: Target &lt;<arg fmt="%s" index="1">isError</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/main.v" Line 54: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">mode</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/main_TEST.v" Line 26: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">mode</arg>&gt;. Formal port size is <arg fmt="%d" index="2">3</arg>-bit while actual signal size is <arg fmt="%d" index="1">4</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/buyProductModule.v" Line 30: Target &lt;<arg fmt="%s" index="1">customerBudget</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/buyProductModule.v" Line 32: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">mode</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/buyProductModule.v" Line 33: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">mode</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/buyProductModule.v" Line 36: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">param2</arg>&gt;. Formal port size is <arg fmt="%d" index="2">4</arg>-bit while actual signal size is <arg fmt="%d" index="1">3</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/chargeMachineModule.v" Line 15: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">param2</arg>&gt;. Formal port size is <arg fmt="%d" index="2">4</arg>-bit while actual signal size is <arg fmt="%d" index="1">3</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="329" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/recieveMoneyModule.v" Line 22: Target &lt;<arg fmt="%s" index="1">cashResult</arg>&gt; of concurrent assignment or output port connection should be a net type.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/recieveMoneyModule.v" Line 21: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">mode</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/recieveMoneyModule.v" Line 22: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">mode</arg>&gt;. Formal port size is <arg fmt="%d" index="2">1</arg>-bit while actual signal size is <arg fmt="%d" index="1">32</arg>-bit.
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="1016" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/changePriceModule.v" Line 15: Port <arg fmt="%s" index="1">param4</arg> is not connected to this instance
+</msg>
+
+<msg type="warning" file="HDLCompiler" num="189" delta="unknown" >"C:/WORK_SPACE/UNIVERSIY/vendingMachine/changePriceModule.v" Line 15: Size mismatch in connection of port &lt;<arg fmt="%s" index="3">param2</arg>&gt;. Formal port size is <arg fmt="%d" index="2">4</arg>-bit while actual signal size is <arg fmt="%d" index="1">3</arg>-bit.
+</msg>
+
+</messages>
+

@@ -1,0 +1,5 @@
+verilog work "setMoney.v"
+verilog work "getMoney.v"
+verilog work "saveMachineLog.v"
+verilog work "cashHandler.v"
+verilog work "recieveMoneyModule.v"

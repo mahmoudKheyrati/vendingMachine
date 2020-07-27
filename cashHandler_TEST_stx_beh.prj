@@ -1,0 +1,5 @@
+verilog isim_temp "setMoney.v"
+verilog isim_temp "getMoney.v"
+verilog isim_temp "cashHandler.v"
+verilog isim_temp "cashHandler_TEST.v"
+verilog isim_temp "C:/Xilinx/14.7/ISE_DS/ISE//verilog/src/glbl.v"

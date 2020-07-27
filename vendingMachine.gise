@@ -1,0 +1,347 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="vendingMachine.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="buyProductModule.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="buyProductModule.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="buyProductModule.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="buyProductModule.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="buyProductModule.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="buyProductModule.xst"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="buyProductModule_TEST_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="buyProductModule_TEST_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="buyProductModule_TEST_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="buyProductModule_TEST_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="buyProductModule_envsettings.html"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="buyProductModule_summary.html"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="buyProductModule_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="cashHandler.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="cashHandler.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="cashHandler.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="cashHandler.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="cashHandler.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="cashHandler.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="cashHandler_TEST_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="cashHandler_TEST_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="cashHandler_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="chagnePriceModule_TEST_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="changePriceModule.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="changePriceModule.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="changePriceModule.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="chargeMachineModule.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="chargeMachineModule.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="chargeMachineModule.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="chargeMachineModule_TEST_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="chargeMachineModule_TEST_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="fuse.log"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="getMoney_TEST_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="isim"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_CMD" xil_pn:name="isim.cmd"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_LOG" xil_pn:name="isim.log"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="main.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="main.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="main.xst"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="main_TEST_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="main_TEST_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="main_TEST_isim_beh.wdb"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="main_TEST_stx_beh.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="readStuff.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="readStuff.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="readStuff.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="readStuff.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="readStuff.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="readStuff.ngr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="readStuff.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="readStuff.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="readStuff.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="readStuff.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="readStuff_TEST_isim_beh.exe"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="readStuff_TEST_stx_beh.prj"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="readStuff_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="readStuff_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="readStuff_ngdbuild.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="readStuff_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="recieveMoneyModule.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="recieveMoneyModule.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="recieveMoneyModule.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="recieveMoneyModule.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="recieveMoneyModule.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="recieveMoneyModule.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="recieveMoneyModule_TEST_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="recieveMoneyModule_xst.xrpt"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="saveMachineLog_TEST_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="setMoney_TEST_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="setMoney_TEST_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="setMoney_TEST_isim_beh.wdb"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="sevenSegmentDisplay.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="sevenSegmentDisplay.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="sevenSegmentDisplay.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="sevenSegmentDisplay.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="sevenSegmentDisplay.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="sevenSegmentDisplay.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="sevenSegmentDisplay.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="sevenSegmentDisplay.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="sevenSegmentDisplay.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="sevenSegmentDisplay.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sevenSegmentDisplay.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="sevenSegmentDisplay.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="sevenSegmentDisplay.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="sevenSegmentDisplay.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="sevenSegmentDisplay.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="sevenSegmentDisplay.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="sevenSegmentDisplay.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="sevenSegmentDisplay.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="sevenSegmentDisplay.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="sevenSegmentDisplay_TEST_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="sevenSegmentDisplay_TEST_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="sevenSegmentDisplay_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="sevenSegmentDisplay_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="sevenSegmentDisplay_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="sevenSegmentDisplay_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="sevenSegmentDisplay_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="sevenSegmentDisplay_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="sevenSegmentDisplay_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="sevenSegmentDisplay_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="sevenSegmentDisplay_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="sevenSegmentDisplay_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="sevenSegmentDisplay_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="sevenSegmentDisplay_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="sevenSegmentDisplay_usage.xml"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="sevenSegmentDisplay_xst.xrpt"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="storeHandler.prj"/>
+    <file xil_pn:fileType="FILE_XST_STX" xil_pn:name="storeHandler.stx"/>
+    <file xil_pn:fileType="FILE_XST" xil_pn:name="storeHandler.xst"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="storeHandler_TEST_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="storeHandler_TEST_stx_beh.prj"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="writeStuff_TEST_beh.prj"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_ISIM_EXE" xil_pn:name="writeStuff_TEST_isim_beh.exe"/>
+    <file xil_pn:fileType="FILE_ISIM_MISC" xil_pn:name="writeStuff_TEST_isim_beh.wdb"/>
+    <file xil_pn:branch="BehavioralSim" xil_pn:fileType="FILE_INI" xil_pn:name="xilinxsim.ini"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1595697015" xil_pn:name="TRAN_copyInitialToAbstractSimulation" xil_pn:start_ts="1595697015">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1595697192" xil_pn:in_ck="-193741011608292899" xil_pn:name="TRAN_copyAbstractToPostAbstractSimulation" xil_pn:start_ts="1595697192">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="buyProductModule.v"/>
+      <outfile xil_pn:name="buyProductModule_TEST.v"/>
+      <outfile xil_pn:name="cashHandler.v"/>
+      <outfile xil_pn:name="cashHandler_TEST.v"/>
+      <outfile xil_pn:name="chagnePriceModule_TEST.v"/>
+      <outfile xil_pn:name="changePriceModule.v"/>
+      <outfile xil_pn:name="chargeMachineModule.v"/>
+      <outfile xil_pn:name="chargeMachineModule_TEST.v"/>
+      <outfile xil_pn:name="getMoney.v"/>
+      <outfile xil_pn:name="getMoney_TEST.v"/>
+      <outfile xil_pn:name="main.v"/>
+      <outfile xil_pn:name="main_TEST.v"/>
+      <outfile xil_pn:name="readStuff.v"/>
+      <outfile xil_pn:name="readStuff_TEST.v"/>
+      <outfile xil_pn:name="recieveMoneyModule.v"/>
+      <outfile xil_pn:name="recieveMoneyModule_TEST.v"/>
+      <outfile xil_pn:name="saveMachineLog.v"/>
+      <outfile xil_pn:name="saveMachineLog_TEST.v"/>
+      <outfile xil_pn:name="setMoney.v"/>
+      <outfile xil_pn:name="setMoney_TEST.v"/>
+      <outfile xil_pn:name="sevenSegmentDisplay.v"/>
+      <outfile xil_pn:name="sevenSegmentDisplay_TEST.v"/>
+      <outfile xil_pn:name="storeHandler.v"/>
+      <outfile xil_pn:name="storeHandler_TEST.v"/>
+      <outfile xil_pn:name="writeStuff.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1595697015" xil_pn:name="TRAN_xawsToSimhdl" xil_pn:prop_ck="2977417761463492315" xil_pn:start_ts="1595697015">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1595697015" xil_pn:name="TRAN_schematicsToHdlSim" xil_pn:prop_ck="-3804877074760332935" xil_pn:start_ts="1595697015">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1595697015" xil_pn:name="TRAN_regenerateCoresSim" xil_pn:prop_ck="2023861438074427138" xil_pn:start_ts="1595697015">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1595697192" xil_pn:in_ck="-193741011608292899" xil_pn:name="TRAN_copyPostAbstractToPreSimulation" xil_pn:start_ts="1595697192">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="buyProductModule.v"/>
+      <outfile xil_pn:name="buyProductModule_TEST.v"/>
+      <outfile xil_pn:name="cashHandler.v"/>
+      <outfile xil_pn:name="cashHandler_TEST.v"/>
+      <outfile xil_pn:name="chagnePriceModule_TEST.v"/>
+      <outfile xil_pn:name="changePriceModule.v"/>
+      <outfile xil_pn:name="chargeMachineModule.v"/>
+      <outfile xil_pn:name="chargeMachineModule_TEST.v"/>
+      <outfile xil_pn:name="getMoney.v"/>
+      <outfile xil_pn:name="getMoney_TEST.v"/>
+      <outfile xil_pn:name="main.v"/>
+      <outfile xil_pn:name="main_TEST.v"/>
+      <outfile xil_pn:name="readStuff.v"/>
+      <outfile xil_pn:name="readStuff_TEST.v"/>
+      <outfile xil_pn:name="recieveMoneyModule.v"/>
+      <outfile xil_pn:name="recieveMoneyModule_TEST.v"/>
+      <outfile xil_pn:name="saveMachineLog.v"/>
+      <outfile xil_pn:name="saveMachineLog_TEST.v"/>
+      <outfile xil_pn:name="setMoney.v"/>
+      <outfile xil_pn:name="setMoney_TEST.v"/>
+      <outfile xil_pn:name="sevenSegmentDisplay.v"/>
+      <outfile xil_pn:name="sevenSegmentDisplay_TEST.v"/>
+      <outfile xil_pn:name="storeHandler.v"/>
+      <outfile xil_pn:name="storeHandler_TEST.v"/>
+      <outfile xil_pn:name="writeStuff.v"/>
+    </transform>
+    <transform xil_pn:end_ts="1595697194" xil_pn:in_ck="-193741011608292899" xil_pn:name="TRAN_ISimulateBehavioralModelRunFuse" xil_pn:prop_ck="-6266342297814498171" xil_pn:start_ts="1595697192">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="fuse.log"/>
+      <outfile xil_pn:name="isim"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="main_TEST_beh.prj"/>
+      <outfile xil_pn:name="main_TEST_isim_beh.exe"/>
+      <outfile xil_pn:name="xilinxsim.ini"/>
+    </transform>
+    <transform xil_pn:end_ts="1595697265" xil_pn:in_ck="-3616324826221419982" xil_pn:name="TRAN_ISimulateBehavioralModel" xil_pn:prop_ck="-1710711910017061144" xil_pn:start_ts="1595697264">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="isim.cmd"/>
+      <outfile xil_pn:name="isim.log"/>
+      <outfile xil_pn:name="main_TEST_isim_beh.wdb"/>
+    </transform>
+    <transform xil_pn:end_ts="1595354287" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1595354287">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1595432948" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="-4485333125493074452" xil_pn:start_ts="1595432948">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1595432948" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="-33092438798454636" xil_pn:start_ts="1595432948">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1595354287" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1595354287">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1595432948" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="6086790156280833550" xil_pn:start_ts="1595432948">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+    </transform>
+    <transform xil_pn:end_ts="1595354287" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="3206529612922900429" xil_pn:start_ts="1595354287">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+    </transform>
+    <transform xil_pn:end_ts="1595432948" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="-2548532351687398114" xil_pn:start_ts="1595432948">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+    </transform>
+    <transform xil_pn:end_ts="1595446029" xil_pn:in_ck="-6482793686310085950" xil_pn:name="TRANEXT_xstsynthesize_virtex6" xil_pn:prop_ck="-4687357192655037551" xil_pn:start_ts="1595446023">
+      <status xil_pn:value="FailedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="InputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="buyProductModule.lso"/>
+      <outfile xil_pn:name="buyProductModule.prj"/>
+      <outfile xil_pn:name="buyProductModule.syr"/>
+      <outfile xil_pn:name="buyProductModule.xst"/>
+      <outfile xil_pn:name="buyProductModule_TEST_beh.prj"/>
+      <outfile xil_pn:name="buyProductModule_TEST_stx_beh.prj"/>
+      <outfile xil_pn:name="buyProductModule_xst.xrpt"/>
+      <outfile xil_pn:name="readStuff.ngr"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1595432955" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="3527223179109803449" xil_pn:start_ts="1595432955">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+    </transform>
+    <transform xil_pn:end_ts="1595355341" xil_pn:in_ck="-7516701207396524726" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-104378902628476878" xil_pn:start_ts="1595355335">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForProperties"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="readStuff.bld"/>
+      <outfile xil_pn:name="readStuff.ngd"/>
+      <outfile xil_pn:name="readStuff_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1595355348" xil_pn:in_ck="-7516701207396524725" xil_pn:name="TRANEXT_map_virtex7" xil_pn:prop_ck="2100985583056581773" xil_pn:start_ts="1595355341">
+      <status xil_pn:value="AbortedRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="readStuff_map.map"/>
+      <outfile xil_pn:name="readStuff_map.mrp"/>
+    </transform>
+    <transform xil_pn:end_ts="1595354346" xil_pn:in_ck="-3409949910759615670" xil_pn:name="TRANEXT_par_virtex5" xil_pn:prop_ck="-2283627392121029586" xil_pn:start_ts="1595354321">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+    <transform xil_pn:end_ts="1595354346" xil_pn:in_ck="1806078559356392237" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416185" xil_pn:start_ts="1595354336">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForInputs"/>
+      <status xil_pn:value="OutOfDateForPredecessor"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="InputRemoved"/>
+      <status xil_pn:value="OutputRemoved"/>
+    </transform>
+  </transforms>
+
+</generated_project>
